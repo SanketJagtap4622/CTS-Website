@@ -33,6 +33,10 @@
     margin-right: 15px;
 }
 
+.about-card-content {
+    text-align: center;
+}
+
 .about-card-title {
     font-family: "Poppins", sans-serif;
     font-size: 18px;
