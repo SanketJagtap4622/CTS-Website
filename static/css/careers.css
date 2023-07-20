@@ -129,6 +129,7 @@ p {
     background-color: #0f62fe;
     font-weight: bold;
     border: none;
+    border-radius: 5px;
 }
 
 .card-btn>a {
